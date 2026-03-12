@@ -1,0 +1,10 @@
+inspect the data with describe 
+1. 25 records 7 columns
+2. missing values for some records for brand, money, mileage and colour
+3. where the brand is missing I think data is useless so drop it
+4. for money and mileage we can take median
+5. for color we can keep it nan
+8. filter latest cars after 2020
+9. filter latest cars with low mileage
+10. cheapest car
+11. car with max mileage
